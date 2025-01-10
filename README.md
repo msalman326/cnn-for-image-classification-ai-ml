@@ -35,7 +35,7 @@ This repository, **`cnn-for-image-classification-ai-ml`**, features a Python-bas
 ---
 
 ## Key Highlights
-- 🩺 **Use Case**: Classification of Chinese herb images for research and practical applications.
+- 🩺 **Use Case**: Classification of Chinese medicine images for research and practical applications.
 - 🔄 **Modular Design**: Easy to adapt and extend for other image classification projects.
 - 📈 **Visualization Tools**: Built-in metrics visualization for model performance analysis.
 
